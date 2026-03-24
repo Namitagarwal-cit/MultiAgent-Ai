@@ -1,0 +1,8 @@
+[project]
+name = "MultiAgent-Ai"
+version = "0.1.0"
+description = "Multi-agent debate orchestration with Researcher, Analyst, Critic and Final Synthesizer"
+requires-python = ">=3.9"
+
+[tool.pytest]
+addopts = ["-q"]
